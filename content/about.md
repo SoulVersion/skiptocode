@@ -9,16 +9,16 @@ weight: 50
 comment: false
 mathjax: false
 ---
+# Hey there!
 
-Hugo is a static site engine written in Go.
+I'm Rijo Thomas.
 
+I'm a self taught programmer and tech enthusiast from India.
 
-It makes use of a variety of open source projects including:
+** Every week I publish a short post on programming for beginners like me **
 
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
+Check Me in:
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+* [Facebook](https://facebook.com/Rijo1998)
+* [Instagram](https://instagram.com/technophile_xtra)
 
