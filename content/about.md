@@ -15,7 +15,7 @@ I'm Rijo Thomas.
 
 I'm a self taught programmer and tech enthusiast from India.
 
-** Every week I publish a short post on programming for beginners like me **
+**Every week I publish a short post on programming for beginners like me**
 
 Check Me in:
 
