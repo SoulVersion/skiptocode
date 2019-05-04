@@ -30,6 +30,10 @@ Lets look at an example.
 
  if you are going to learn python and surfed the web for **what is python? **you may find some similar answer like below.
 
-"Python is an object-oriented, high-level programming language with integrated dynamic semantics primarily for web and app development. It is extremely attractive in the field of Rapid Application Development because it offers dynamic typing and dynamic binding options. "
+> "Python is an object-oriented, high-level programming language with integrated dynamic semantics primarily for web and app development. It is extremely attractive in the field of Rapid Application Development because it offers dynamic typing and dynamic binding options. " 
 
 Reading the above lines creates an ever ending loop in my brain. This is not the way to teach someone programming and it may even make them afraid to step into the subject. python can be easily defined as below without any technical jargon.
+
+> "Python is a easy to use, simple programming language.You can use Python for developing desktop GUI applications, websites and web applications. "
+
+See this is what beginners like us want to know before stepping into the complex world of Object Oriented Programming other stuffs. **_Every programming language is a tool for some purpose._** We want to learn about how to use the tool rather than hearing some complicated stuffs about it from start that make us want to quit it from start.
