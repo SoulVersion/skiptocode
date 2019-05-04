@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>preview on SkipToCode</title>
-    <link>http://localhost:1313/tags/preview/</link>
+    <link>https://skiptocode.netlify.com/tags/preview/</link>
     <description>Recent content in preview on SkipToCode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>SkipToCode - Rijo Thomas</copyright>
     <lastBuildDate>Fri, 03 May 2019 16:28:05 +0530</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/tags/preview/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://skiptocode.netlify.com/tags/preview/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/post/first-post/</link>
+      <link>https://skiptocode.netlify.com/post/first-post/</link>
       <pubDate>Fri, 03 May 2019 16:28:05 +0530</pubDate>
       
-      <guid>http://localhost:1313/post/first-post/</guid>
+      <guid>https://skiptocode.netlify.com/post/first-post/</guid>
       <description>Hello Hugo My First Blogging experiance in Hugo</description>
     </item>
     

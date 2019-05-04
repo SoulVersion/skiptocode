@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SkipToCode</title>
-    <link>http://localhost:1313/</link>
+    <link>https://skiptocode.netlify.com/</link>
     <description>Recent content on SkipToCode</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>SkipToCode - Rijo Thomas</copyright>
     <lastBuildDate>Fri, 03 May 2019 16:28:05 +0530</lastBuildDate>
     
-        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://skiptocode.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://skiptocode.netlify.com/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://skiptocode.netlify.com/about/</guid>
       
         <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
 
@@ -37,10 +37,10 @@
     
     <item>
       <title>First Post</title>
-      <link>http://localhost:1313/post/first-post/</link>
+      <link>https://skiptocode.netlify.com/post/first-post/</link>
       <pubDate>Fri, 03 May 2019 16:28:05 +0530</pubDate>
       
-      <guid>http://localhost:1313/post/first-post/</guid>
+      <guid>https://skiptocode.netlify.com/post/first-post/</guid>
       
         <description>
 

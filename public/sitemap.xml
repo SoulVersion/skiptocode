@@ -1,58 +1,58 @@
-<?xml-stylesheet type="text/xsl" href="http://localhost:1313/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://skiptocode.netlify.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://skiptocode.netlify.com/about/</loc>
     <lastmod>2017-08-28T21:41:52+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/english/</loc>
+    <loc>https://skiptocode.netlify.com/tags/english/</loc>
     <lastmod>2019-05-03T16:28:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/first-post/</loc>
+    <loc>https://skiptocode.netlify.com/post/first-post/</loc>
     <lastmod>2019-05-03T16:28:05+05:30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://skiptocode.netlify.com/post/</loc>
     <lastmod>2019-05-03T16:28:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://skiptocode.netlify.com/</loc>
     <lastmod>2019-05-03T16:28:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://skiptocode.netlify.com/tags/</loc>
     <lastmod>2019-05-03T16:28:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/preview/</loc>
+    <loc>https://skiptocode.netlify.com/tags/preview/</loc>
     <lastmod>2019-05-03T16:28:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/tags/tag-2/</loc>
+    <loc>https://skiptocode.netlify.com/tags/tag-2/</loc>
     <lastmod>2019-05-03T16:28:05+05:30</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://skiptocode.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
   
