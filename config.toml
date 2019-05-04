@@ -32,7 +32,7 @@ defaultContentLanguage = "en"           # Default language to use
   name = "Home"
   weight = 10
   identifier = "home"
-  url = "https://skiptocode.netlify.com/"
+  url = "/"
 [[menu.main]]
   name = "Archives"
   weight = 20
