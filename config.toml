@@ -57,7 +57,7 @@ defaultContentLanguage = "en"           # Default language to use
   rssFullContent = true     # if false, Rss feed instead of the summary
 
   # site info (optional)                                  # 站点信息（可选，不需要的可以直接注释掉）
-  logoTitle = "🆂kipTo🅲ode"        # default: the title value    # 默认值: 上面设置的title值
+  logoTitle = "ₛₖᵢₚₜₒCₒdₑ"        # default: the title value    # 默认值: 上面设置的title值
   keywords = ["Programming", "Blog","SkipToCode"]
   description = "Learn programming with less theory more code."
 
