@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SkipToCode</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on SkipToCode</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>SkipToCode - Rijo Thomas</copyright>
+    <lastBuildDate>Fri, 03 May 2019 16:28:05 +0530</lastBuildDate>
+    
+        <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;Hugo is a static site engine written in Go.&lt;/p&gt;
+
+&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;Cobra&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;Viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/jWalterWeatherman&#34;&gt;J Walter Weatherman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cast&#34;&gt;Cast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+</description>
+      
+    </item>
+    
+    <item>
+      <title>First Post</title>
+      <link>http://localhost:1313/post/first-post/</link>
+      <pubDate>Fri, 03 May 2019 16:28:05 +0530</pubDate>
+      
+      <guid>http://localhost:1313/post/first-post/</guid>
+      
+        <description>
+
+&lt;h2 id=&#34;hello-hugo&#34;&gt;Hello Hugo&lt;/h2&gt;
+
+&lt;p&gt;My First Blogging experiance in Hugo&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
