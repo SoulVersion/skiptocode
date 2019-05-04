@@ -28,3 +28,5 @@ You may wonder why choose Javascript from several programming languages out ther
 ## Javascript:
 
 Javascript is a scripting language used for creating web pages, web applications, games etc...
+
+ (scripting language is a language that doesn't need any complicated setup.)
