@@ -58,7 +58,7 @@ else
 
 You may wonder what is shown above. Just try to read it as it is and you may get a idea of what is going on. Yes, the above code is used to check whether a number is odd or even.
 
-### Variables:
+### 1) Variables:
 
 The words declared using **let** keyword are known as **variables** and they store values that are given after an equal (=) sign.
 
@@ -68,7 +68,5 @@ As you seen above variable can hold numbers, result of an arithmetic expression,
 >
 > Numbers, strings are generally called as datatypes in Javascript. there are more datatypes in javascript than the ones mentioned here.
 > Click  [here](https://www.w3schools.com/js/js_datatypes.asp)  for viewing all the datatypes that variables can hold in in Javascript.
->
->
 
-## Conditional Statements:
+### 2) Conditional Statements:
