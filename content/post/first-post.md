@@ -42,7 +42,7 @@ That's why this blog is made we will learn programming together. Believe me i'm 
 
 See you later!
 
-{{< highlight javascript >}}
+{{< highlight jsm >}}
 let num = 200;
 let ans = num/2;
 if (ans === 0)
@@ -60,11 +60,3 @@ if (ans === 0)
 } 
 ```
 
-{{< highlight javascript "linenos=table,hl_lines=8 15-17,linenostart=199" >}}
-let num = 200;
-let ans = num/2;
-if (ans === 0)
-{   
-    document.write("number is even");
-} 
-{{< / highlight >}}
