@@ -78,9 +78,12 @@ In above example **if(){  } else{ }** block is a conditional statement.The if bl
 In JavaScript we have the following conditional statements:
 
 * if - specifies a block of code to be executed, if a specified condition is true
-
 * else - specifies a block of code to be executed, if the same condition is false
-
 * else if - specifies a new condition to test, if the first condition is false
-
 * switch - specifies many alternative blocks of code to be executed
+
+[Click here](https://www.w3schools.com/js/js_if_else.asp "Conditional Statements") for more info about conditional statements.
+
+## Running a Javascript program:
+Save the above "odd or even" code as main.js. This is our Javascript program.
+To execute a Javascript program we need browser. Since browsers displays only HTML documents we need an HTML file to embed our Javascript file.
