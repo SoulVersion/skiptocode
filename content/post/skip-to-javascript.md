@@ -70,3 +70,17 @@ As you seen above variable can hold numbers, result of an arithmetic expression,
 > Click  [here](https://www.w3schools.com/js/js_datatypes.asp)  for viewing all the datatypes that variables can hold in in Javascript.
 
 ### 2) Conditional Statements:
+
+Conditional statements run according to a particular condition.
+
+In above example **if(){  } else{ }** block is a conditional statement.The if block executes if the condition is true otherwise else block gets executed.
+
+In JavaScript we have the following conditional statements:
+
+* if - specifies a block of code to be executed, if a specified condition is true
+
+* else - specifies a block of code to be executed, if the same condition is false
+
+* else if - specifies a new condition to test, if the first condition is false
+
+* switch - specifies many alternative blocks of code to be executed
