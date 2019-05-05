@@ -42,7 +42,7 @@ That's why this blog is made we will learn programming together. Believe me i'm 
 
 See you later!
 
-{{< highlight jsm >}}
+{{< highlight javascript >}}
 let num = 200;
 let ans = num/2;
 if (ans === 0)
@@ -51,7 +51,7 @@ if (ans === 0)
 } 
 {{< /highlight >}}
 
-```javascript
+```
 let num = 200;
 let ans = num/2;
 if (ans === 0)
@@ -59,4 +59,3 @@ if (ans === 0)
     document.write("number is even");
 } 
 ```
-
