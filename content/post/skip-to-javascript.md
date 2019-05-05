@@ -44,6 +44,7 @@ That's it we are ready to begin our journey.
 ## Variables and Conditional Statements:
 
 **main.js**
+
 ```
 let num = 200;
 let ans = num/2;
@@ -103,7 +104,7 @@ So create an **index.html** file and copy the below code into it.
 </html>
 ```
 
-This is a simple html document structure with our Javascript file is embeded using **<script></script>** tags **src** (source) attribute.
+This is a simple html document structure with our Javascript file is embeded using **<script> </script>** tags **src** (source) attribute.
 
 Now save the file and run it by either right clicking it and selecting your browser or dragging it into your browser.
 
