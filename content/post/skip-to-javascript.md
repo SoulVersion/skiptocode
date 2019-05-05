@@ -21,7 +21,7 @@ thumbnailImage: ''
 
 **Hi guys!** we are going to skip right into modern Javascript. this tutorial may be splited into several parts based upon how much i can cover about each topic in Javascript.  
 
-So lets jump right into the Javascript.
+So lets jump right in.
 
 ## Why Javascript?
 
