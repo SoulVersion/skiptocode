@@ -85,5 +85,12 @@ In JavaScript we have the following conditional statements:
 [Click here](https://www.w3schools.com/js/js_if_else.asp "Conditional Statements") for more info about conditional statements.
 
 ## Running a Javascript program:
+
 Save the above "odd or even" code as main.js. This is our Javascript program.
 To execute a Javascript program we need browser. Since browsers displays only HTML documents we need an HTML file to embed our Javascript file.
+
+![](/images/uploads/screenshot_2019-05-05_15-12-25.png)
+
+## Your Project:
+Now that you know some Javascript let's put it into some practice.
+Modify the above program to add 10 to the number if number is even else subtract 10 from the number.
