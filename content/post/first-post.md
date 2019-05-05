@@ -41,3 +41,12 @@ See this is what beginners like us want to know before stepping into the complex
 That's why this blog is made we will learn programming together. Believe me i'm also a beginner in this subject. We will learn programming together by skipping the theories that aren't needed now. There will be a new post in this blog every week about a topic i learned. we will understand everything code by code.
 
 See you later!
+
+{{< highlight javascript >}}
+let num = 200;
+let ans = num/2;
+if (ans === 0)
+{   
+    document.write("number is even");
+} 
+{{< /highlight >}}
