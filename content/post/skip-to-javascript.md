@@ -87,9 +87,9 @@ In JavaScript we have the following conditional statements:
 ## Running a Javascript program:
 
 Save the above "odd or even" code as main.js. This is our Javascript program.
-To execute a Javascript program we need browser. Since browsers displays only HTML documents we need an HTML file to embed our Javascript file.
+To execute a Javascript program we need a browser. Since browsers displays only HTML documents we need an HTML file to embed our Javascript file.
 
-So create an **index.html **file and copy the below code into it.
+So create an **index.html** file and copy the below code into it.
 
 ```
 <!DOCTYPE html>
@@ -102,7 +102,7 @@ So create an **index.html **file and copy the below code into it.
 </html>
 ```
 
-This is a simple html document structure with our Javascript file is embeded using **<script></script> **tags **src** (source) attribute.
+This is a simple html document structure with our Javascript file is embeded using **<script></script>** tags **src** (source) attribute.
 
 
 
