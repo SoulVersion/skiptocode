@@ -93,3 +93,6 @@ defaultContentLanguage = "en"           # Default language to use
     #o-goodreads = "http://localhost:1313"
     #p-coding = "http://localhost:1313"
     #q-bilibili = "http://localhost:1313"
+    
+  #syntax highlightning
+  PygmentsCodeFences = true
