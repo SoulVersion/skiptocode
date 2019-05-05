@@ -89,8 +89,35 @@ In JavaScript we have the following conditional statements:
 Save the above "odd or even" code as main.js. This is our Javascript program.
 To execute a Javascript program we need browser. Since browsers displays only HTML documents we need an HTML file to embed our Javascript file.
 
-![](/images/uploads/screenshot_2019-05-05_15-12-25.png)
+So create an **index.html **file and copy the below code into it.
+
+```
+<!DOCTYPE html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <script src="main.js"></script>
+    </body>
+</html>
+```
+This is a simple html document structure
+
+
+**Output**
+
+![null](/images/uploads/screenshot_2019-05-05_15-12-25.png)
 
 ## Your Project:
+
 Now that you know some Javascript let's put it into some practice.
 Modify the above program to add 10 to the number if number is even else subtract 10 from the number.
+Don't worry it's simple just think. If you stumble check [my repositoy](https://github.com/fosscaml/skiptocodetuts) for the project files.
+
+## Conclusion:
+
+Don't worry if you find some concept hard to grasp just ask for help in the below comment section.
+
+If you find this tutorial simple don't worry we will skip into some complex stuffs really soon.
+
+**See you later!**
