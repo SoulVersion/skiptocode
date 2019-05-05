@@ -50,3 +50,12 @@ if (ans === 0)
     document.write("number is even");
 } 
 {{< /highlight >}}
+
+```javascript
+let num = 200;
+let ans = num/2;
+if (ans === 0)
+{   
+    document.write("number is even");
+} 
+```
