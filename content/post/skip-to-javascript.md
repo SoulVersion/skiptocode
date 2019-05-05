@@ -101,8 +101,14 @@ So create an **index.html **file and copy the below code into it.
     </body>
 </html>
 ```
-This is a simple html document structure
 
+This is a simple html document structure with our Javascript file is embeded using **<script></script> **tags **src** (source) attribute.
+
+
+
+Now save the file and run it by either right clicking it and selecting your browser or dragging it into your browser.
+
+You will see a output like the one shown below. 
 
 **Output**
 
@@ -112,7 +118,7 @@ This is a simple html document structure
 
 Now that you know some Javascript let's put it into some practice.
 Modify the above program to add 10 to the number if number is even else subtract 10 from the number.
-Don't worry it's simple just think. If you stumble check [my repositoy](https://github.com/fosscaml/skiptocodetuts) for the project files.
+Don't worry it's simple just think. If you stumble check [my repositoy](https://github.com/fosscaml/skiptocodetuts "skiptocoderepository") for the project files.
 
 ## Conclusion:
 
