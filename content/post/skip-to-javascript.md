@@ -43,14 +43,12 @@ That's it we are ready to begin our journey.
 
 **main.js**
 
-```javascript
-  
 ```
-{{< highlight javascript >}}
 let num = 200;
 let ans = num/2;
 if (ans === 0)
 {   
     document.write("number is even");
 } 
-{{< /highlight >}}
+```
+
