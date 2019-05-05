@@ -1,7 +1,7 @@
 ---
 title: Skip To Javascript
 date: '2019-05-04T16:40:40+05:30'
-draft: true
+draft: false
 categories:
   - Javascript
   - Programming
