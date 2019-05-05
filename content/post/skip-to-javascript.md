@@ -15,8 +15,10 @@ keywords:
   - coding
 autoThumbnailImage: true
 thumbnailImagePosition: left
-thumbnailImage: /images/uploads/logo.png
+thumbnailImage: ''
 ---
+![javascript logo](/images/uploads/logo.png)
+
 **Hi guys!** we are going to skip right into modern Javascript. this tutorial may be splited into several parts based upon how much i can cover about each topic in Javascript.  
 
 So lets jump right into the Javascript.
@@ -42,7 +44,6 @@ That's it we are ready to begin our journey.
 ## Variables and Conditional Statements:
 
 **main.js**
-
 ```
 let num = 200;
 let ans = num/2;
@@ -87,9 +88,9 @@ In JavaScript we have the following conditional statements:
 ## Running a Javascript program:
 
 Save the above "odd or even" code as main.js. This is our Javascript program.
-To execute a Javascript program we need browser. Since browsers displays only HTML documents we need an HTML file to embed our Javascript file.
+To execute a Javascript program we need a browser. Since browsers displays only HTML documents we need an HTML file to embed our Javascript file.
 
-So create an **index.html **file and copy the below code into it.
+So create an **index.html** file and copy the below code into it.
 
 ```
 <!DOCTYPE html>
@@ -102,9 +103,7 @@ So create an **index.html **file and copy the below code into it.
 </html>
 ```
 
-This is a simple html document structure with our Javascript file is embeded using **<script></script> **tags **src** (source) attribute.
-
-
+This is a simple html document structure with our Javascript file is embeded using **<script></script>** tags **src** (source) attribute.
 
 Now save the file and run it by either right clicking it and selecting your browser or dragging it into your browser.
 
