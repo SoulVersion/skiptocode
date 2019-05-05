@@ -42,14 +42,6 @@ That's why this blog is made we will learn programming together. Believe me i'm 
 
 See you later!
 
-{{< highlight javascript >}}
-let num = 200;
-let ans = num/2;
-if (ans === 0)
-{   
-    document.write("number is even");
-} 
-{{< /highlight >}}
 
 ```
 let num = 200;
