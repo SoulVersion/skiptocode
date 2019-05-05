@@ -25,7 +25,7 @@ So lets jump right into the Javascript.
 
 ## Why Javascript?
 
-You may wonder why to choose Javascript from several programming languages out there. Well for me it doesn't need an initial setup. All you need is a text editor and browser in your computer. It is the most trending programming language right now.
+You may wonder why to choose Javascript from several programming languages out there. Well for me first it doesn't need an initial setup. All you need is a text editor and browser in your computer. Second it is the most trending programming language right now.
 
 ## Javascript:
 
